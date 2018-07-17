@@ -1,0 +1,1 @@
+ELS_ENDPOINT = 'localhost:9200'
